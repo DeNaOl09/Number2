@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>about_all</title>
+        <link rel="stylesheet" href="style.css"/>
+    </head>
+    <body>
+    <header>
+        <img src="https://drive.google.com/uc?export=view&id=1JiJ0hpigUrFlPXUgHzRIiXXRPrM8yA_H" />
+    </header>
+    <main>
+        <h1>Зебры</h1>
+        <p><b>По темпераменту зебры сильно отличаются от своих одомашненных собратьев.<br/> В их арсенале имеются клыки и копыта, которыми они активно пользуются при возникновении малейшей угрозы. К тому же сама зебра довольно невелика, так что ездить на ней верхом было бы физически некомфортно: её высота в холке варьируется от 120 до 150 см, тогда как для лошади эта величина может достигать 180 см.</b></p>
+        <img src="https://drive.google.com/uc?export=view&id=17-VBhiQ3D4g2FHgdL1AS_DYyLxxqa7s2" />
+        <img src="https://drive.google.com/uc?export=view&id=114RlWlvPPDOx0eVuthWg5Gel49OzcROg" />
+    </main>
+    <footer>
+        <img src="https://drive.google.com/uc?export=view&id=1h4rLevXEHF-P6oIvPNVIgu7L3QHxJEzH"
+    </footer>
+    </body>
+</html>
